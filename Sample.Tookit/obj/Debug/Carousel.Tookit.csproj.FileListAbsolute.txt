@@ -1,0 +1,8 @@
+G:\project\Carousel\Sample.Tookit\bin\Debug\Carousel.Tookit.dll
+G:\project\Carousel\Sample.Tookit\bin\Debug\Carousel.Tookit.pdb
+G:\project\Carousel\Sample.Tookit\bin\Debug\Newtonsoft.Json.dll
+G:\project\Carousel\Sample.Tookit\bin\Debug\Newtonsoft.Json.xml
+G:\project\Carousel\Sample.Tookit\obj\Debug\Carousel.Tookit.csproj.CoreCompileInputs.cache
+G:\project\Carousel\Sample.Tookit\obj\Debug\Carousel.Tookit.dll
+G:\project\Carousel\Sample.Tookit\obj\Debug\Carousel.Tookit.pdb
+G:\project\Carousel\Sample.Tookit\obj\Debug\Carousel.Tookit.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+G:\project\Carousel\Sample.Bussiness\bin\Release\Sample.Bussiness.dll
+G:\project\Carousel\Sample.Bussiness\bin\Release\Sample.Bussiness.pdb
+G:\project\Carousel\Sample.Bussiness\bin\Release\Carousel.Tookit.dll
+G:\project\Carousel\Sample.Bussiness\bin\Release\Newtonsoft.Json.dll
+G:\project\Carousel\Sample.Bussiness\bin\Release\Carousel.Tookit.pdb
+G:\project\Carousel\Sample.Bussiness\bin\Release\Newtonsoft.Json.xml
+G:\project\Carousel\Sample.Bussiness\obj\Release\Sample.Bussiness.csprojResolveAssemblyReference.cache
+G:\project\Carousel\Sample.Bussiness\obj\Release\Sample.Bussiness.csproj.CoreCompileInputs.cache
+G:\project\Carousel\Sample.Bussiness\obj\Release\Sample.Bussiness.dll
+G:\project\Carousel\Sample.Bussiness\obj\Release\Sample.Bussiness.pdb

@@ -1,0 +1,57 @@
+﻿body {
+}
+
+    .fd-Carousel{
+    margin:0px 0px;
+    border:1px solid  #000000;
+    }
+
+    .fd-Carousel .slider-left{
+    position:absolute;
+    left:0px;
+    top:50%;
+    z-index:100;
+    }
+    .fd-Carousel .slider-right {
+        position: absolute;
+        right: 0px;
+        top: 50%;
+        z-index: 100;
+        content:'下一页';
+    }
+    .fd-Carousel .slider-up {
+        position: absolute;
+        right: 0px;
+        left: 0px;
+        top: 0px;
+        bottom: 100%;
+        z-index: 100;
+    }
+    .fd-Carousel .slider-down {
+        position: absolute;
+        right: 0px;
+        left: 0px;
+        bottom: 0px;
+        top: 100%;
+        z-index: 100;
+    }
+
+   .fd-Carousel .box{
+      margin-bottom:10px;
+      margin-top:10px;
+      margin-left:10px;
+      overflow:hidden;
+      padding:0px 0px;
+      list-style:none;
+   }
+   .fd-Carousel .box.animate{
+       transition: transform 1s ease-in-out;
+   }
+   .fd-Carousel .box>.sub{
+       margin:0px 0px;
+       border:1px solid #000000;
+       float:left;
+       text-align:center;
+   }
+  
+  

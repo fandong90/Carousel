@@ -1,0 +1,15 @@
+G:\project\Carousel\WebSample\bin\WebSample.dll.config
+G:\project\Carousel\WebSample\bin\WebSample.dll
+G:\project\Carousel\WebSample\bin\WebSample.pdb
+G:\project\Carousel\WebSample\bin\Carousel.Tookit.dll
+G:\project\Carousel\WebSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\project\Carousel\WebSample\bin\Sample.Bussiness.dll
+G:\project\Carousel\WebSample\bin\Newtonsoft.Json.dll
+G:\project\Carousel\WebSample\bin\Sample.Bussiness.pdb
+G:\project\Carousel\WebSample\bin\Carousel.Tookit.pdb
+G:\project\Carousel\WebSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\project\Carousel\WebSample\bin\Newtonsoft.Json.xml
+G:\project\Carousel\WebSample\obj\Release\WebSample.csprojResolveAssemblyReference.cache
+G:\project\Carousel\WebSample\obj\Release\WebSample.csproj.CoreCompileInputs.cache
+G:\project\Carousel\WebSample\obj\Release\WebSample.dll
+G:\project\Carousel\WebSample\obj\Release\WebSample.pdb
